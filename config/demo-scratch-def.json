@@ -1,0 +1,14 @@
+{
+  "orgName": "demo",
+  "edition": "Developer",
+  "features": [],
+  "orgPreferences": {
+    "enabled": [],
+    "disabled": []
+  },
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true
+    }
+  }
+}
